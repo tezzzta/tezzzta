@@ -1,11 +1,11 @@
 
 
-<h1> Hey, ¿Qué más? < Developers/ >! <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" />
+<h1> Hey, ¿Qué más? < Developers/ >! <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+
  </h1>
 <p align='center'>
 </p>
 <p align="center">
-   <img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 </p>
 
 
@@ -13,9 +13,8 @@
 <div size='20px'> Hola, soy Alejandro, un desarrollador Full-Stack con fuerte orientación hacia la seguridad de la nube :D
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2> About Me </h2>
+   <img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭  Actualmente soy Freelancer
   
