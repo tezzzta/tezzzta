@@ -16,13 +16,13 @@
 <h2> About Me </h2>
    <img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭  Actualmente soy Freelancer
+- 🔭  Formalmente soporte IT en mi tiempo libre un coder 
   
-- 🌱 Estoy estudiando computación en la nube :D, también soy entusiasta de typescript (Y muy pronto también de C# D:)
+- 🌱 Estoy estudiando computación en la nube :D
   
 - 👯 Me encantaría colaborar en proyectos
   
-- 💬 Puedes preguntarme sobre SQL, Javascript, Python o React, los domino bien (Aunque no soy experto D:)
+- 💬 Puedes preguntarme sobre SQL, Javascript, Python o React, los domino bien 
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
