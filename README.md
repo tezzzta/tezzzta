@@ -10,19 +10,17 @@
 
 
 
-<div size='20px'> Hola, soy Alejandro, un desarrollador Full-Stack con fuerte orientación hacia la seguridad de la nube :D
+<div size='20px'> Hola, soy Alejandro, un desarrollador Full-Stack con fuerte orientación hacia la seguridad en la nube :D
 </div>
 
 <h2> About Me </h2>
    <img align="right" alt="GIF" height="160px"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭  Formalmente soporte IT en mi tiempo libre un coder 
+- 🔭  Full-Stack developer 
   
-- 🌱 Estoy estudiando computación en la nube :D
+- 🌱 Estoy estudiando Ing. Electrónica :D
   
-- 👯 Me encantaría colaborar en proyectos
-  
-- 💬 Puedes preguntarme sobre SQL, Javascript, Python o React, los domino bien 
+- 💬 Pregùntame sobre Devops y Cybersecurity, tambien los domino  
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
